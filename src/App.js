@@ -18,7 +18,7 @@ function App() {
         >
           open-sourced
         </a>{" "}
-        on GitHub by Monique D.
+        on GitHub by Monque D.
       </span>
     </div>
   );
